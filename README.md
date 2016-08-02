@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+Edited version of README.txt
